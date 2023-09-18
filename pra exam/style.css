@@ -1,0 +1,15 @@
+.header{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+body{
+    background-color: rgb(169, 174, 180);
+}
+.content{
+    max-width: 800px;
+    background-color: white;
+    border-radius: 5px;
+}
